@@ -59,10 +59,10 @@ const STORE = [
       answers: [
         'Tom Clancy',
         'John Grisham',
-        'Dashielle Hammett',
-        'Ian Flemming',
+        'Dashiell Hammett',
+        'Ian Fleming',
       ],
-      correctAnswer: 'Ian Flemming',
+      correctAnswer: 'Ian Fleming',
     },
 
     {
